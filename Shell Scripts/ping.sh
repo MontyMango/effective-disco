@@ -1,0 +1,5 @@
+CLOUDFLARE="1.1.1.1"
+GOOGLE="8.8.8.8"
+
+$(ping $CLOUDFLARE)
+$(ping $GOOGLE)

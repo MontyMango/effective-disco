@@ -1,4 +1,3 @@
-language = "Javascript";
-<script>
-    console.log("Hello from " + language);
-</script>
+const language = "Javascript";
+
+console.log("Hello from " + language);

@@ -10,6 +10,9 @@ public class TimeZone {
     }
 
     private static void brackets() {
-        System.out.println("----------------");
+        for(int i = 0; i < 16; i++) {
+            System.out.print("-");
+        }
+        System.out.println();
     }
 }

@@ -5,4 +5,4 @@ $TZ=(Get-TimeZone)
 Write-Output $TZ
 
 Get-Host 
-Set-Date -Date 12/23/2022 
+# Set-Date -Date 12/23/2022 # Operation Not Permitted
